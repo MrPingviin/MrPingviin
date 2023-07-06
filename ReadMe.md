@@ -7,6 +7,7 @@
 ## Take a look at my portfolio 👀
 [![Spotify Profile Visualizer App](https://github-readme-stats.vercel.app/api/pin/?username=mrpingviin&repo=Spotify_Profile_Visualizer_App&theme=dracula)](https://github.com/MrPingviin/Spotify_Profile_Visualizer_App)
 [![TodoApp VueJS](https://github-readme-stats.vercel.app/api/pin/?username=mrpingviin&repo=TodoApp_VueJS&theme=dracula)](https://github.com/MrPingviin/TodoApp_VueJS)
+[![NodeJS App](https://github.com/MrPingviin/NodeJS_App/)
 
 ### 💻 My tech stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
