@@ -28,3 +28,5 @@
 ![Profilestats](https://github-readme-stats.vercel.app/api?username=mrpingviin&show_icons=true&theme=dracula)
 
 ![MostUsedLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrpingviin&langs_count=8&theme=dracula&hide_progress=true)
+
+![ViteConf2023](https://social-img.staticblitz.com/viteconf2023-tickets/mrpingviin/react?v=4)
