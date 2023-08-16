@@ -29,4 +29,4 @@
 
 ![MostUsedLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrpingviin&langs_count=8&theme=dracula&hide_progress=true)
 
-<ims src="https://social-img.staticblitz.com/viteconf2023-tickets/mrpingviin/react?v=4" width="500px">
+<img src="https://social-img.staticblitz.com/viteconf2023-tickets/mrpingviin/react?v=4" width="50%">
