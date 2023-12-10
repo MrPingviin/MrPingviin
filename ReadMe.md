@@ -5,7 +5,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://penguinweb.eu/)
 
 ## Take a look at my portfolio 👀
-https://github.com/MrPingviin/Bene_InterviewApp
 [![Interview_App](https://github-readme-stats.vercel.app/api/pin/?username=mrpingviin&repo=Bene_InterviewApp&theme=dracula)](https://github.com/MrPingviin/Bene_InterviewApp)
 [![NodeJS App](https://github-readme-stats.vercel.app/api/pin/?username=mrpingviin&repo=NodeJS_App&theme=dracula)](https://github.com/MrPingviin/NodeJS_App/)
 [![Spotify Profile Visualizer App](https://github-readme-stats.vercel.app/api/pin/?username=mrpingviin&repo=Spotify_Profile_Visualizer_App&theme=dracula)](https://github.com/MrPingviin/Spotify_Profile_Visualizer_App)
